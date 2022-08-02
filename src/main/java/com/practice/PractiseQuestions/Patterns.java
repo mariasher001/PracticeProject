@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.PractiseQuestions;
 
 public class Patterns {
 
