@@ -1,10 +1,7 @@
 package com.practice;
 
 import com.practice.Exceptions.InvalidNumberException;
-import com.practice.PractiseQuestions.FibonacciNumbers;
-import com.practice.PractiseQuestions.ReverseDigits;
-import com.practice.PractiseQuestions.SimpleAlgorithms;
-import com.practice.PractiseQuestions.SquareOrNot;
+import com.practice.PractiseQuestions.*;
 
 import java.util.Scanner;
 
@@ -24,6 +21,7 @@ public class Main {
         //SquareOrNot.squareOrNotOfAnInputNumber(12485);
         //FibonacciNumbers.printFibonacciNumbers(100);
         //FibonacciNumbers.fibonacciUsingRecursion(10);
-       ReverseDigits.reverseDigits(145632);
+       //ReverseDigits.reverseDigits(145632);
+        PalindromeSequence.detectPalindromeBasic(-121);
     }
 }
