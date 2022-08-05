@@ -1,13 +1,15 @@
 package com.practice;
 
 import com.practice.Exceptions.InvalidNumberException;
+import com.practice.PractiseQuestions.FibonacciNumbers;
+import com.practice.PractiseQuestions.ReverseDigits;
 import com.practice.PractiseQuestions.SimpleAlgorithms;
 import com.practice.PractiseQuestions.SquareOrNot;
 
 import java.util.Scanner;
 
 
-public  class Main {
+public class Main {
     public static void main(String[] args) {
         //Patterns.printReversePyramid(5);
         //double absoluteValue = SimpleAlgorithms.absoluteValue(-1000.0);
@@ -19,7 +21,9 @@ public  class Main {
         //} catch (InvalidNumberException Ine) {
         //    System.err.println("Number1 should be smaller than number 2");
         //
-        SquareOrNot.squareOrNotOfAnInputNumber(12485);
-
+        //SquareOrNot.squareOrNotOfAnInputNumber(12485);
+        //FibonacciNumbers.printFibonacciNumbers(100);
+        //FibonacciNumbers.fibonacciUsingRecursion(10);
+       ReverseDigits.reverseDigits(145632);
     }
 }
