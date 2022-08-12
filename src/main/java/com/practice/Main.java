@@ -22,6 +22,8 @@ public class Main {
         //FibonacciNumbers.printFibonacciNumbers(100);
         //FibonacciNumbers.fibonacciUsingRecursion(10);
        //ReverseDigits.reverseDigits(145632);
-        PalindromeSequence.detectPalindromeBasic(-121);
+       // PalindromeSequence.detectPalindromeBasic(-121);
+    //SimplificationOfFractions.simplifyFractions(22,11);
+        RomanToInteger.romanToInt("XIX");
     }
 }
