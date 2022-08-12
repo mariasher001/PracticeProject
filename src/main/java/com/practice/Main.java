@@ -24,6 +24,7 @@ public class Main {
        //ReverseDigits.reverseDigits(145632);
        // PalindromeSequence.detectPalindromeBasic(-121);
     //SimplificationOfFractions.simplifyFractions(22,11);
-        RomanToInteger.romanToInt("XIX");
+        //RomanToInteger.romanToInt("XIX");
+       System.out.println(ValidPalindromePhrase.isPalindrome("hello world"));
     }
 }

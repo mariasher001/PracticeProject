@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54b49701-d179-4f87-b57f-d97529bcb815" name="Changes" comment="Algorithm for Reversing the digits added.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/PractiseQuestions/PalindromeSequence.java" afterDir="false" />
+    <list default="true" id="54b49701-d179-4f87-b57f-d97529bcb815" name="Changes" comment="Given a roman numeral, convert it to an integer.&#10;SimplificationOfFractions added.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/PractiseQuestions/ValidPalindromePhrase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/practice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/practice/PractiseQuestions/ReverseDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/practice/PractiseQuestions/ReverseDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +43,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;JavaVariableFindUsagesOptions.isSearchInOverridingMethods&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/MARIA/Projects/IdeaProjects/PracticeProject&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -106,7 +107,10 @@
       <workItem from="1658186558623" duration="6026000" />
       <workItem from="1658580670502" duration="24000" />
       <workItem from="1659137448283" duration="21767000" />
-      <workItem from="1659670544814" duration="1942000" />
+      <workItem from="1659670544814" duration="5966000" />
+      <workItem from="1659853658122" duration="35000" />
+      <workItem from="1660220740116" duration="15503000" />
+      <workItem from="1660293274635" duration="3947000" />
     </task>
     <task id="LOCAL-00001" summary="Patterns Questions Added">
       <created>1658192402771</created>
@@ -143,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659671209335</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Algorithm for detecting palindrome integers added.">
+      <created>1659674266908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659674266908</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Given a roman numeral, convert it to an integer.&#10;SimplificationOfFractions added.">
+      <created>1660279283054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660279283054</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +184,9 @@
     <MESSAGE value=" Algorithm that tells whether the input value is a square of an integer or not." />
     <MESSAGE value="Fibonacci Number and Fibonacci Numbers using Recursion coded." />
     <MESSAGE value="Algorithm for Reversing the digits added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithm for Reversing the digits added." />
+    <MESSAGE value="Algorithm for detecting palindrome integers added." />
+    <MESSAGE value="Given a roman numeral, convert it to an integer." />
+    <MESSAGE value="Given a roman numeral, convert it to an integer.&#10;SimplificationOfFractions added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Given a roman numeral, convert it to an integer.&#10;SimplificationOfFractions added." />
   </component>
 </project>
