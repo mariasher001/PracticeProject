@@ -27,7 +27,9 @@ public class Main {
     //SimplificationOfFractions.simplifyFractions(22,11);
         //RomanToInteger.romanToInt("XIX");
        //System.out.println(ValidPalindromePhrase.isPalindrome("hello world"));
-        int[] nums = {1,2,3,4,5,6} ;
-        RotateTheArray.rotateWithConstantSpaceComplexity(nums,2);
+        int[] nums = {1,2,2,3,3,3,3,3,4,5} ;
+        RemoveDuplicates.removeDuplicates(nums);
+        System.out.println();
+
     }
 }
