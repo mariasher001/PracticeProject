@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54b49701-d179-4f87-b57f-d97529bcb815" name="Changes" comment="Remove duplicates from a sorted array and return the no of non-duplicate elements." />
+    <list default="true" id="54b49701-d179-4f87-b57f-d97529bcb815" name="Changes" comment="Updated remove duplicates with a runtime of 1ms.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/PractiseQuestions/RotateTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/practice/PractiseQuestions/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/practice/PractiseQuestions/RemoveDuplicates.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +112,7 @@
       <workItem from="1659853658122" duration="35000" />
       <workItem from="1660220740116" duration="15503000" />
       <workItem from="1660293274635" duration="5162000" />
-      <workItem from="1660465551975" duration="2598000" />
+      <workItem from="1660465551975" duration="19958000" />
     </task>
     <task id="LOCAL-00001" summary="Patterns Questions Added">
       <created>1658192402771</created>
@@ -172,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660468160176</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated remove duplicates with a runtime of 1ms.">
+      <created>1660469319440</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660469319440</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +212,7 @@
     <MESSAGE value="Given a roman numeral, convert it to an integer.&#10;SimplificationOfFractions added." />
     <MESSAGE value="A phrase is a palindrome or not after removing spaces and alphanumeric characters." />
     <MESSAGE value="Remove duplicates from a sorted array and return the no of non-duplicate elements." />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove duplicates from a sorted array and return the no of non-duplicate elements." />
+    <MESSAGE value="Updated remove duplicates with a runtime of 1ms." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated remove duplicates with a runtime of 1ms." />
   </component>
 </project>
